@@ -1,0 +1,9 @@
+{
+  "eslint.validate": ["javascript", "typescript", "json"],
+  "editor.formatOnSave": true,
+  "editor.rulers": [80],
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  }
+}
